@@ -16,3 +16,23 @@
 .vba {
   font-size: 1.7em;
 }
+
+#contact {
+  width: 20em;
+  margin: 0 auto;
+  padding: 0;
+}
+
+#contact i {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#contact p {
+  display: inline-block;
+}
+
+#contact > a {
+  cursor: pointer;
+  text-decoration: none;
+}
