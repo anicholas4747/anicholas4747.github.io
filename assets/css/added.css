@@ -36,3 +36,16 @@
   cursor: pointer;
   text-decoration: none;
 }
+
+h2#projects {
+  margin: 0 auto;
+  width: fit-content;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid #DDD;
+}
+
+#menu li:hover {
+  color: rgba(0,0,0,0.5);
+}
